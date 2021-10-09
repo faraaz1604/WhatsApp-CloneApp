@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596447917700",
+    "project_id": "faraaz-whatsapp",
+    "storage_bucket": "faraaz-whatsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596447917700:android:b14e5670d4a12a71ad74d1",
+        "android_client_info": {
+          "package_name": "com.example.whatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596447917700-r5ggjk1631epfci1st3j4nelrvde9a1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxRqRJfsoAUGuYjg2Vg5fsciGhoprJOX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596447917700-r5ggjk1631epfci1st3j4nelrvde9a1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
